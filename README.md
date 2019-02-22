@@ -2,6 +2,7 @@
 
 ## I'm obsessed with Tidy Data :)
 
+## While working with CSUMB + NASA,
 ## I started a Data-Science meetup for myself and a few colleagues.
 
 This was a presentation to introduce them to the topic of tidying data.
